@@ -1,0 +1,1 @@
+Select * from dba_users where username='SHYAM';
