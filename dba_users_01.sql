@@ -1,0 +1,1 @@
+create table dba_user1 as select * from dba_users where username !='SYS';
